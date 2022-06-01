@@ -1,0 +1,14 @@
+input:checked + .task{
+     text-decoration: line-through;
+}
+
+.delete-btn {
+     height: 10px;
+     background-color: red;
+     border: none;
+     border-radius: 50%;
+}
+
+ul {
+     list-style-type: none;
+}
